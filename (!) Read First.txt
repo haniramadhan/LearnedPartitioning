@@ -1,1 +1,2 @@
 Please extract the files in resource-managers\yarn\target\target.zip first before building the project
+Please extract the files in  sql\hive-thriftserver\target first before building the project
